@@ -1,4 +1,4 @@
-----------Word with freq = 111----------
+0.----------Word with freq = 111----------
 t
 ---------- Summery: freq=111 count=1 ----------
 ----------Word with freq = 76----------
@@ -168,7 +168,7 @@ geographers
 english
 bit
 alright
----------- Summery: freq=7 count=17 ----------
+---------- Summery: freq=7 count=17 ----------===============
 ----------Word with freq = 6----------
 yeah
 worry
@@ -278,7 +278,7 @@ annoying
 animal
 amazing
 ---------- Summery: freq=4 count=60 ----------
-----------Word with freq = 3----------
+----------Word with freq = 3----------==============================
 wrong
 woman
 windsor
@@ -369,7 +369,7 @@ ask
 aren
 0
 ---------- Summery: freq=3 count=89 ----------
-----------Word with freq = 2----------
+----------Word with freq = 2----------=======================================
 zoo
 work
 wool
@@ -566,7 +566,7 @@ add
 accidents
 7
 000
----------- Summery: freq=2 count=196 ----------
+---------- Summery: freq=2 count=196 ----------========================================
 ----------Word with freq = 1----------
 year
 yards
@@ -747,6 +747,7 @@ rush
 runs
 running
 rummage
+===================================================
 rum
 rules
 ruined
@@ -803,6 +804,7 @@ pyjamas
 pursued
 punched
 pulling
+===========================================
 public
 psst
 ps
@@ -937,6 +939,7 @@ likes
 liked
 light
 library
+=====================================
 liberating
 li
 letters
@@ -1075,6 +1078,7 @@ fortress
 foreigner
 flushed
 floor
+===================================
 flood
 flesh
 fit
